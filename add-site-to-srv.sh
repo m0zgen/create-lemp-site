@@ -1,5 +1,10 @@
 #!/bin/bash
 #
+# This script works in the /srv/www directory
+# Reference article: https://sys-adm.in/sections/os-nix/830-fedora-linux-ustanovka-nastrojka-lemp-nginx-php-fpm.html
+# Created by Yegeniy Goncharov, https://sys-adm.in
+
+#
 # Envs
 # ---------------------------------------------------\
 PATH=$PATH:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
