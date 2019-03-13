@@ -7,4 +7,4 @@ Create site in the /srv/www folder, see reference article on [sys-adm.in](https:
 ### Script add-site-to-var.sh
 Create site in the /var/www folder
 
-Both scripts works, but you must setup [development enviorment]((https://sys-adm.in/sections/os-nix/830-fedora-linux-ustanovka-nastrojka-lemp-nginx-php-fpm.html)
+Both scripts works, but you must setup [development enviorment](https://sys-adm.in/sections/os-nix/830-fedora-linux-ustanovka-nastrojka-lemp-nginx-php-fpm.html)
